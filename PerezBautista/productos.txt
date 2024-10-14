@@ -1,0 +1,11 @@
+1,Marca 1,Producto 1,10.0,5
+2,Marca 2,Producto 2,20.0,10
+3,Marca 3,Producto 3,30.0,15
+4,Marca 4,Producto 4,40.0,20
+5,Marca 5,Producto 5,50.0,25
+6,Marca 6,Producto 6,60.0,30
+7,Marca 7,Producto 7,70.0,35
+8,Marca 8,Producto 8,80.0,40
+9,Marca 9,Producto 9,90.0,45
+10,Marca 10,Producto 10,100.0,50
+11,Apple,Iphone 13 pro,860000.0,4
